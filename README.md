@@ -1,3 +1,2 @@
 # annoying-python
-<br>for only educational purposes
-<br>abuses are prohibited
+<br>할짓없어서 만듬
